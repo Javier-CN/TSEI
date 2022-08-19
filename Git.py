@@ -7,3 +7,5 @@ print("tercer commit")
 print("Trabajando en dev")
 
 print("segundo commit en dev")
+
+print("Push a master")
